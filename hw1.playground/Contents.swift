@@ -42,7 +42,7 @@ class Words {
     //: ### change) the code at the very bottom. Debug the function.
     
     
-    //: [EXPLAIN YOUR ANSWER HERE]
+    //: [Added 'class' to make the funciton static, for it is not called on instances of the class. Added 'return true' because the functioning was not returning outside of the for loop. ]
     
     
     //: ## Q3: More Functions and Object Initialization
@@ -90,7 +90,7 @@ class Words {
     //: ### change) the code at the very bottom. Debug the function.
     
     
-    //: [EXPLAIN YOUR ANSWER HERE]
+    //: [added 'return true', bedcause function was missing returning 'nil' while it was written to return a boolean. got rid of 'class' at the func declaration, for this function is not static and uses instances of the class. changed var for lenA and lenB to let, for they are constant in the function. replaced 'letter' with '_'. ]
     
     
 }
